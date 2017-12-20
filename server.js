@@ -7,7 +7,7 @@ const schedule = {
   thu: [2, 4, 5]
 };
 const tumbler = {
-  lala: 1
+  lala: 3
 };
 
 app.use(express.static("public"));
